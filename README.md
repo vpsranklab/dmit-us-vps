@@ -17,17 +17,17 @@ IPv6 地址：支援。
 
 支付方式：支付宝、PayPal 等。
 
-# **Rank Star**
+## **Rank Star**
 
 ⭐⭐⭐⭐⭐
 
-# **官方网站**
+## **官方网站**
 
 [点击直达](https://www.dmit.io/aff.php?aff=3171)
 
-# **订阅列表**
+## **订阅列表**
 
-## Premium
+### Premium
 
 针对中国大陆优化线路，基于中国电信 CN2 GIA。
 
@@ -42,15 +42,15 @@ IPv6 地址：支援。
 | LAX.Pro.LARGE | 8 Cores | 16 GB | 320 GB | 2500 GB | 10 Gbps | $ 338.88 |
 | LAX.Pro.GIANT | 12 Cores | 24 GB | 640 GB | 5000 GB | 10 Gbps | $ 619.99 |
 
-## Premium Secure
+### Premium Secure
 
-针对中国大陆优化线路，基于中国电信 CN2 GIA，并提供 5Tbps+ DDoS 保护。
+针对中国大陆优化线路，基于中国电信 CN2 GIA，并提供 5 Tbps+ DDoS 保护。
 
 | 订阅名称 | CPU | 内存 | 磁盘 | 流量/月 | 速率 | 费用/月 |
 | --- | --- | --- | --- | --- | --- | --- |
 | LAX.sPro.CREATOR | 2 Cores | 2 GB | 20 GB | 1500 GB | 100 Mbps | $ 71.99 |
 
-## Premium Unmetered
+### Premium Unmetered
 
 针对中国大陆优化线路，基于中国电信 CN2 GIA，不限制流量。
 
@@ -61,7 +61,7 @@ IPv6 地址：支援。
 | LAX.Pro.uMEDIUM | 4 Cores | 8 GB | 80 GB | ∞ | 100 Mbps | $ 799.99 |
 | LAX.Pro.uLARGE | 8 Cores | 16 GB | 100 GB | ∞ | 200 Mbps | $ 1399.99 |
 
-## Eyeball
+### Eyeball
 
 针对中国大陆优化线路，基于中国移动 CMIN2。
 
@@ -76,18 +76,18 @@ IPv6 地址：支援。
 | LAX.EB.LARGE | 8 Cores | 16 GB | 320 GB | 50000 GB | 10 Gbps | $ 338.88 |
 | LAX.EB.GIANT | 12 Cores | 24 GB | 640 GB | 100000 GB | 10 Gbps | $ 619.99 |
 
-# **优惠促销**
+## **优惠促销**
 
 - 暂无
 
-# **基准测试**
+## **基准测试**
 
 （即将到来）
 
-# **路由追踪**
+## **路由追踪**
 
 （即将到来）
 
-# 测试IP
+## 测试IP
 
 美国 Premium（LAX.Pro）：154.17.226.2
